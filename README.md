@@ -1,5 +1,10 @@
 
 ### **Hardware Deep Dive: The 'Stray' v1 Prototype (and all its quirks)**
+
+# Source Files & Final Notes
+
+The PCB source files were created in [DipTrace](https://diptrace.com/ua/). It's a free-for-small-projects tool, but it's not very common, so you'll have to download it if you want to poke around.
+
 ## Hardware (v1 Prototype)
 
 The current version (`v1`) is a custom-built prototype. It's fully functional but has several quirks and "overkill" components (like the audio codec) based on its original design.
